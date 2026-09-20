@@ -53,7 +53,7 @@ Git · GitHub · VS Code · Google AI Studio · Docker · Linux
 
 <!-- GitHub stats -->
 
-## Let's Build
+## Let's Build now
 
 Always learning. Always experimenting. Always shipping.
 
