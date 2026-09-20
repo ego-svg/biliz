@@ -39,7 +39,7 @@ React · TypeScript · JavaScript · HTML · CSS · Tailwind
 **Backend**
 Node.js · Express · REST APIs · SQLite · Firebase
 
-**Tools & Workflow**
+**Tools & Workflow*
 Git · GitHub · VS Code · Google AI Studio · Docker · Linux
 
 ## What I'm Building
