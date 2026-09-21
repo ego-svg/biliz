@@ -1,6 +1,6 @@
 #  biliz
 AI Engineer &amp; Full-Stack Developer building useful products with AI, code, and design.
-# Hi there 👋
+#  Hi there 👋
 
 I'm **Bilisuma**, an AI Engineer, Full-Stack Developer, and Product Builder. I enjoy turning ideas into real products — combining **AI, software engineering, and thoughtful design** to build useful experiences.
 
